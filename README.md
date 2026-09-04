@@ -1,4 +1,4 @@
-# Hi, I'm Nikolas👋
+# Hi, I'm Player error👋
 
 ## About Me
 
@@ -22,7 +22,9 @@ Every paid VM comes with **Proxmox OS included for free**. We’ll also offer a 
 
 You can visit CactusHosts [here](https://cactushosts.com/).
 
-[![CactusHosts](https://cdn.phototourl.com/free/2026-09-04-12029359-ae79-411e-9a11-8cda40c29fbd.webp)](https://cactushosts.com/)
+<a href="https://cactushosts.com/">
+  <img src="https://cdn.phototourl.com/free/2026-09-04-12029359-ae79-411e-9a11-8cda40c29fbd.webp" alt="CactusHosts" width="300">
+</a>
 
 ---
 
