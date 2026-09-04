@@ -1,4 +1,4 @@
-# Hi, I'm PLayer Error👋
+# Hi, I'm Nikolas👋
 
 ## About Me
 
@@ -16,9 +16,13 @@ Here are a few projects I'm working on:
 
 * **CactusHosts** is an affordable VPS hosting service where you can host your projects without spending a lot.
 
-Our servers are hosted from home, so we might not offer the absolute best performance in the industry but our low prices make up for it.
+Our servers are hosted from home, so we might not offer the absolute best performance in the industry—but our low prices make up for it.
 
 Every paid VM comes with **Proxmox OS included for free**. We’ll also offer a **free VPS plan** for anyone who wants to try out the service or host a small project at no cost.
+
+You can visit CactusHosts [here](https://cactushosts.com/).
+
+[![CactusHosts](https://cdn.phototourl.com/free/2026-09-04-12029359-ae79-411e-9a11-8cda40c29fbd.webp)](https://cactushosts.com/)
 
 ---
 
