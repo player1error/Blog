@@ -1,4 +1,4 @@
-# Hi, I'm Player error👋
+# Hi, I'm [Player error](https://github.com/player1error) 👋
 
 ## About Me
 
