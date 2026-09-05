@@ -26,13 +26,13 @@ Every paid VM comes with **Proxmox OS included for free**. We’ll also offer a 
   <img src="https://cdn.phototourl.com/free/2026-09-04-12029359-ae79-411e-9a11-8cda40c29fbd.webp" alt="CactusHosts" width="300">
 </a>
 
-### 🔊 Server Noises
+<!-- ### 🔊 Server Noises
 
 [Listen to server room noises](https://freesound.org/people/SoundDesignForYou/sounds/646682/)
 
 ### 🎥 Server Room Video
 
-[▶️ Watch the server room video](https://www.youtube.com/watch?v=yPvxfwssfUg)
+[▶️ Watch the server room video](https://www.youtube.com/watch?v=yPvxfwssfUg) -->
 
 ---
 
