@@ -20,6 +20,13 @@ Our servers are hosted from home, so we might not offer the absolute best perfor
 
 Every paid VM comes with **Proxmox OS included for free**. We’ll also offer a **free VPS plan** for anyone who wants to try out the service or host a small project at no cost.
 
+| CactusHosts Service | Status |
+| ------------------- | -------------------- |
+| Website             | In Development 🏗️   |
+| VPS Hosting         | Coming Soon 🔜       |
+| Free VPS            | Coming Soon 🔜       |
+| Servers             | In Development 🚧   |
+
 🌵 You can visit CactusHosts [here](https://cactushosts.com/).
 
 <a href="https://cactushosts.com/">
